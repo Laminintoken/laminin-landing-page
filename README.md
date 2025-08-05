@@ -8,7 +8,7 @@ Welcome to the official GitHub repository for *Laminin Token* — a decentralize
 
 ## 🌐 Live Landing Page
 
-👉 [Visit Our Official Site](https://your-landing-page-link.com)
+👉 [Visit Our Official Site]([https://laminin-landing-page.vercel.app/[))
 
 This landing page includes:
 - Token Overview
@@ -38,5 +38,6 @@ This landing page includes:
 Built for connection.  
 Backed by innovation.  
 **Powered by trust.**
+
 
 
