@@ -1,12 +1,41 @@
-# 🚀 Laminin Token Landing Page
+# 🪙 Laminin Token
 
-This is the official landing page for *Laminin Token*, designed to be fast, secure, and professional for investors, token holders, and crypto community visibility.
+*The Future of Secure Digital Assets*
 
-**Built for Security. Forged by StormCoders.**
-
+Welcome to the official GitHub repository for *Laminin Token* — a decentralized asset built to power next-generation blockchain applications, with a focus on transparency, trust, and real-world impact.
 
 ---
 
-## 🌐 Live Site
+## 🌐 Live Landing Page
 
-Once deployed via [Vercel](https://vercel.com), your landing page will be live at:
+👉 [Visit Our Official Site](https://your-landing-page-link.com)
+
+This landing page includes:
+- Token Overview
+- Vision & Use Cases
+- Team & Roadmap
+- Links to Community and Resources
+
+---
+
+## 📦 Repository Contents
+
+- /assets – Logos, images, banners  
+- index.html – Landing page structure  
+- style.css – Custom styles  
+- README.md – Project details
+
+---
+
+## 📲 Connect With Us
+
+- 🌍 Website: [laminintoken.io](https://laminintoken.io)  
+- 📺 YouTube: [@LamininToken](https://www.youtube.com/@yourchannel)  
+- 🐦 Twitter: [@LamininToken](https://twitter.com/LamininToken)  
+
+---
+
+Built for connection.  
+Backed by innovation.  
+**Powered by trust.**
+Write to Juan Macband
