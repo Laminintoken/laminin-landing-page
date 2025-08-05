@@ -38,4 +38,5 @@ This landing page includes:
 Built for connection.  
 Backed by innovation.  
 **Powered by trust.**
-Write to Juan Macband
+
+
